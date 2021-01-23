@@ -1,0 +1,2829 @@
+3c3
+<     "message": "About"
+---
+>     "message": "关于"
+6c6
+<     "message": "Version, support center, and contact info"
+---
+>     "message": "版本、支持中心和联系方式。"
+9c9
+<     "message": "* Accelerating a transaction by using a higher gas price increases its chances of getting processed by the network faster, but it is not always guaranteed."
+---
+>     "message": "* 设定更高燃料价格，可以加快交易完成进度，提高网络快速处理机率，但无法保证每次均能够实现提速。"
+12,13c12
+<     "message": "I have read and agree to the $1",
+<     "description": "$1 is the `terms` message"
+---
+>     "message": "我已阅读并同意 $1"
+16,17c15
+<     "message": "$1 may access and spend up to this max amount",
+<     "description": "$1 is the url of the site requesting ability to spend"
+---
+>     "message": "$1 可以访问并使用此最大数额"
+20c18
+<     "message": "Accessing your camera..."
+---
+>     "message": "正在访问相机..."
+23c21
+<     "message": "Account"
+---
+>     "message": "账户"
+26c24
+<     "message": "Account details"
+---
+>     "message": "账户详情"
+29c27
+<     "message": "Account Name"
+---
+>     "message": "账户名称"
+32c30
+<     "message": "Account Options"
+---
+>     "message": "账户选项"
+35c33
+<     "message": "You need to select an account!"
+---
+>     "message": "需要选择一个账户 ！"
+38c36
+<     "message": "Active"
+---
+>     "message": "当前"
+41c39
+<     "message": "Activity"
+---
+>     "message": "活动"
+44c42
+<     "message": "activity log"
+---
+>     "message": "活动日志"
+47c45
+<     "message": "Add an account"
+---
+>     "message": "添加一个账户"
+50c48
+<     "message": "Add the tokens you've acquired using MetaMask"
+---
+>     "message": "在 MetaMask 上添加获得的代币"
+53c51
+<     "message": "Add alias"
+---
+>     "message": "添加别名"
+56c54
+<     "message": "Add Network"
+---
+>     "message": "添加网络"
+59c57
+<     "message": "Add Recipient"
+---
+>     "message": "添加接收方"
+62c60
+<     "message": "Add Suggested Tokens"
+---
+>     "message": "添加推荐代币"
+65c63
+<     "message": "Add to address book"
+---
+>     "message": "添加地址簿"
+68c66
+<     "message": "e.g. John D."
+---
+>     "message": "如：John D."
+71c69
+<     "message": "Add Token"
+---
+>     "message": "添加代币"
+74c72
+<     "message": "Add Tokens"
+---
+>     "message": "添加代币"
+77c75
+<     "message": "Advanced"
+---
+>     "message": "高级"
+80c78
+<     "message": "Advanced Options"
+---
+>     "message": "高级选项"
+83c81
+<     "message": "Access developer features, download State Logs, Reset Account, setup testnets and custom RPC"
+---
+>     "message": "访问开发者功能，下载状态日志，重置账户，设置测试网和自定义 RPC。"
+86c84
+<     "message": "I Agree"
+---
+>     "message": "我同意"
+89c87
+<     "message": "Aggregator network fee"
+---
+>     "message": "聚集器网络手续费"
+92c90
+<     "message": "This can be changed in \"Settings > Alerts\""
+---
+>     "message": "这个可以在“设置 > 提醒”中进行更改"
+95c93
+<     "message": "Browsing a website with an unconnected account selected"
+---
+>     "message": "选择了未连接的账户时浏览网站"
+98c96
+<     "message": "This alert is shown in the popup when you are browsing a connected web3 site, but the currently selected account is not connected."
+---
+>     "message": "当你在浏览已连接的 Web3 网站，但当前选择的账户没有连接时，该提醒会在弹出的窗口中显示。"
+101c99
+<     "message": "When a website tries to use the removed window.web3 API"
+---
+>     "message": "当网站尝试使用已经删除的 window.web3 API"
+104c102
+<     "message": "This alert is shown in the popup when you are browsing a site that tries to use the removed window.web3 API, and may be broken as a result."
+---
+>     "message": "当你在浏览的网站尝试使用已经删除的 window.web3 API 时，该提醒会在弹出的窗口中显示。"
+107c105
+<     "message": "Alerts"
+---
+>     "message": "提醒"
+110c108
+<     "message": "Enable or disable each alert"
+---
+>     "message": "启用或禁用每个提醒"
+113c111
+<     "message": "Allow this external extension to:"
+---
+>     "message": "允许这个外部扩展到："
+116,117c114
+<     "message": "Allow $1 to spend your $2?",
+<     "description": "$1 is the url of the site and $2 is the symbol of the token they are requesting to spend"
+---
+>     "message": "允许 $1 使用你的 $2?"
+120c117
+<     "message": "Allow this site to:"
+---
+>     "message": "允许本网站："
+123,124c120
+<     "message": "Allow $1 to withdraw and spend up to the following amount:",
+<     "description": "The url of the site that requested permission to 'withdraw and spend'"
+---
+>     "message": "允许 $1 提取和最多消费以下数额："
+127c123
+<     "message": "Amount"
+---
+>     "message": "数额"
+130,131c126
+<     "message": "$1 ETH",
+<     "description": "Displays an eth amount to the user. $1 is a decimal number"
+---
+>     "message": "$1 ETH"
+134c129
+<     "message": "Amount:"
+---
+>     "message": "数额："
+137,138c132
+<     "message": "An Ethereum Wallet in your Browser",
+<     "description": "The description of the application"
+---
+>     "message": "以太坊浏览器插件"
+141,142c135
+<     "message": "MetaMask",
+<     "description": "The name of the application"
+---
+>     "message": "MetaMask"
+145c138
+<     "message": "Approval and aggregator network fee"
+---
+>     "message": "批准聚合商网络手续费"
+148c141
+<     "message": "Approval Tx Gas Cost"
+---
+>     "message": "批准交易燃料成本"
+151c144
+<     "message": "Approve spend limit"
+---
+>     "message": "批准消费限额"
+154,155c147
+<     "message": "Approve $1 spend limit",
+<     "description": "The token symbol that is being approved"
+---
+>     "message": "批准 $1 消费限额"
+158c150
+<     "message": "Approved"
+---
+>     "message": "已批准"
+161c153
+<     "message": "Asset"
+---
+>     "message": "资产"
+164c156
+<     "message": "Assets"
+---
+>     "message": "资产"
+167c159
+<     "message": "Attempt to Cancel?"
+---
+>     "message": "尝试取消？"
+170c162
+<     "message": "Submitting this attempt does not guarantee your original transaction will be cancelled. If the cancellation attempt is successful, you will be charged the transaction fee above."
+---
+>     "message": "确认提交该操作无法保证能够成功取消你的原始交易。如取消成功，你将被收取上述交易费。"
+173c165
+<     "message": "Attempting to connect to blockchain."
+---
+>     "message": "正在尝试连接到区块链。"
+176c168
+<     "message": "Attributions"
+---
+>     "message": "来源"
+179c171
+<     "message": "You have authorized the following permissions"
+---
+>     "message": "你已授权以下权限"
+182c174
+<     "message": "Auto-Lock Timer (minutes)"
+---
+>     "message": "自动锁定定时（分钟）"
+185c177
+<     "message": "Set the idle time in minutes before MetaMask will become locked."
+---
+>     "message": "请设置 MetaMask 自动锁定前的空闲时间（单位：分钟）"
+188c180
+<     "message": "Average"
+---
+>     "message": "平均值"
+191c183
+<     "message": "Back"
+---
+>     "message": "返回"
+194c186
+<     "message": "Back to All"
+---
+>     "message": "返回全部"
+197c189
+<     "message": "This secret code is required to recover your wallet in case you lose your device, forget your password, have to re-install MetaMask, or want to access your wallet on another device."
+---
+>     "message": "如果不慎丢失个人设备，忘记密码，或者需要重新安装 MetaMask，亦或是需在另一台设备上打开钱包，请使用该保密码恢复个人钱包数据。"
+200c192
+<     "message": "Backup your Secret Recovery code to keep your wallet and funds secure."
+---
+>     "message": "请备份你的账户助记词，保证你的钱包和资金安全。"
+203c195
+<     "message": "Backup now"
+---
+>     "message": "立即备份"
+206c198
+<     "message": "Balance"
+---
+>     "message": "余额 "
+209c201
+<     "message": "Balance may be outdated"
+---
+>     "message": "余额可能已过期"
+212c204
+<     "message": "Basic"
+---
+>     "message": "基本"
+215c207
+<     "message": "Block Explorer"
+---
+>     "message": "区块浏览器"
+218,219c210
+<     "message": "View account at $1",
+<     "description": "$1 replaced by URL for custom block explorer"
+---
+>     "message": "通过 $1 查看账户"
+222c213
+<     "message": "Use Blockies Identicon"
+---
+>     "message": "使用 Blockies Identicon 图标头像"
+225c216
+<     "message": "Your Browser is not supported..."
+---
+>     "message": "你的浏览器不支持该功能…"
+228c219
+<     "message": "MetaMask is designed and built in California."
+---
+>     "message": "MetaMask在加利福尼亚设计和制造。"
+231c222
+<     "message": "Buy"
+---
+>     "message": "购买"
+234c225
+<     "message": "Buy ETH with Wyre"
+---
+>     "message": "使用 Wyre 购买 ETH"
+237c228
+<     "message": "Wyre lets you use a debit card to deposit ETH right in to your MetaMask account."
+---
+>     "message": "你可以通过 Wyre 使用信用卡将 ETH 存入你的 MetaMask 账户。"
+240c231
+<     "message": "Bytes"
+---
+>     "message": "字节"
+243c234
+<     "message": "You can re-enable this notification in Settings -> Alerts."
+---
+>     "message": "你可以在 设置 -> 提醒 中重新启用该提醒通知。"
+246c237
+<     "message": "Cancel"
+---
+>     "message": "取消"
+249c240
+<     "message": "Cancellation Gas Fee"
+---
+>     "message": "取消交易燃料费用"
+252c243
+<     "message": "Cancelled"
+---
+>     "message": "已取消"
+255c246
+<     "message": "Chain ID"
+---
+>     "message": "链 ID"
+258c249
+<     "message": "You need to use MetaMask on Google Chrome in order to connect to your Hardware Wallet."
+---
+>     "message": "你需要在谷歌浏览器（Google Chrome）上使用 MetaMask 才能连接到你的硬件钱包。"
+261c252
+<     "message": "Click here to reveal secret words"
+---
+>     "message": "点击此处显示密语"
+264c255
+<     "message": "Close"
+---
+>     "message": "关闭"
+267c258
+<     "message": "Confirm"
+---
+>     "message": "确认"
+270c261
+<     "message": "Confirm password"
+---
+>     "message": "确认密码"
+273c264
+<     "message": "Confirm your Secret Backup Phrase"
+---
+>     "message": "请确认你的账户助记词"
+276c267
+<     "message": "Confirmed"
+---
+>     "message": "确认"
+279c270
+<     "message": "Congratulations"
+---
+>     "message": "恭喜"
+282c273
+<     "message": "Connect"
+---
+>     "message": "连接"
+285c276
+<     "message": "Connect account or create new"
+---
+>     "message": "连接账户或创建新账户"
+288c279
+<     "message": "Connect Hardware Wallet"
+---
+>     "message": "连接硬件钱包"
+291c282
+<     "message": "Manually connect to current site"
+---
+>     "message": "手动连接到当前站点"
+294,295c285
+<     "message": "Connect to $1",
+<     "description": "$1 is the name/origin of a web3 site/application that the user can connect to metamask"
+---
+>     "message": "连接到 $1"
+298,299c288
+<     "message": "Connect to all your $1",
+<     "description": "$1 will be replaced by the translation of connectToAllAccounts"
+---
+>     "message": "连接到你的全部$1"
+302,303c291
+<     "message": "accounts",
+<     "description": "will replace $1 in connectToAll, completing the sentence 'connect to all of your accounts', will be text that shows list of accounts on hover"
+---
+>     "message": "账户"
+306,307c294
+<     "message": "Connect to $1",
+<     "description": "$1 will be replaced by the translation of connectToMultipleNumberOfAccounts"
+---
+>     "message": "连接到  $1"
+310,311c297
+<     "message": "$1 accounts",
+<     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
+---
+>     "message": "$1 个账户"
+314c300
+<     "message": "Connect With MetaMask"
+---
+>     "message": "使用 MetaMask 连接"
+317,318c303
+<     "message": "You have $1 accounts connected to this site.",
+<     "description": "$1 is the number of accounts"
+---
+>     "message": "你有 $1 个账户连接到了该网站。"
+321c306
+<     "message": "You have 1 account connected to this site."
+---
+>     "message": "你有 1 个账户连接到了该网站。"
+324c309
+<     "message": "MetaMask is not connected this site. To connect to a web3 site, find the connect button on their site."
+---
+>     "message": "MetaMask 没有连接这个网站。要连接到 web3 网站，请在他们的网站上找到连接按钮。"
+327c312
+<     "message": "Connected sites"
+---
+>     "message": "已连接的网站"
+330,331c315
+<     "message": "$1 is connected to these sites. They can view your account address.",
+<     "description": "$1 is the account name"
+---
+>     "message": "$1 已连接到这些网站。他们可以查看你的账户地址。"
+334,335c318
+<     "message": "$1 is not connected to any sites.",
+<     "description": "$1 is the account name"
+---
+>     "message": "$1 还没连接任何网站。"
+338c321
+<     "message": "Connecting..."
+---
+>     "message": "连接中……"
+341c324
+<     "message": "Connecting to $1"
+---
+>     "message": "正在连接 $1"
+344c327
+<     "message": "Connecting to Goerli Test Network"
+---
+>     "message": "正在连接 Goerli 测试网络"
+347c330
+<     "message": "Connecting to Kovan Test Network"
+---
+>     "message": "正在连接到 Kovan 测试网络"
+350c333
+<     "message": "Connecting to Ethereum Mainnet"
+---
+>     "message": "正在连接到以太坊 Ethereum 主网"
+353c336
+<     "message": "Connecting to Rinkeby Test Network"
+---
+>     "message": "正在连接到 Rinkeby 测试网络"
+356c339
+<     "message": "Connecting to Ropsten Test Network"
+---
+>     "message": "正在连接到 Ropsten 测试网络"
+359c342
+<     "message": "Contact us"
+---
+>     "message": "联系我们"
+362c345
+<     "message": "Contacts"
+---
+>     "message": "联系人"
+365c348
+<     "message": "Add, edit, remove, and manage your contacts"
+---
+>     "message": "添加、编辑、删除和管理你的联系人。"
+368c351
+<     "message": "Continue to Wyre"
+---
+>     "message": "继续前往 Wyre"
+371c354
+<     "message": "Contract Deployment"
+---
+>     "message": "合约部署"
+374c357
+<     "message": "Contract Interaction"
+---
+>     "message": "合约交互"
+377c360
+<     "message": "Copied!"
+---
+>     "message": "已复制"
+380c363
+<     "message": "Copied Transaction ID"
+---
+>     "message": "交易 ID 复制成功"
+383c366
+<     "message": "Copy address to clipboard"
+---
+>     "message": "复制地址到剪贴板"
+386c369
+<     "message": "This is your private key (click to copy)"
+---
+>     "message": "这是你的私钥（点击复制）"
+389c372
+<     "message": "Copy to clipboard"
+---
+>     "message": "复制到剪贴板"
+392c375
+<     "message": "Copy Transaction ID"
+---
+>     "message": "复制交易 ID"
+395c378
+<     "message": "Create"
+---
+>     "message": "创建"
+398c381
+<     "message": "Create a Wallet"
+---
+>     "message": "创建钱包"
+401c384
+<     "message": "Create Account"
+---
+>     "message": "创建账户"
+404c387
+<     "message": "Create Password"
+---
+>     "message": "创建密码"
+407c390
+<     "message": "Currency Conversion"
+---
+>     "message": "货币转换"
+410c393
+<     "message": "Your current account is not connected"
+---
+>     "message": "你的当前账户没有连接"
+413c396
+<     "message": "Current extension page"
+---
+>     "message": "当前扩展页"
+416c399
+<     "message": "Current Language"
+---
+>     "message": "当前语言"
+419c402
+<     "message": "Customize Gas"
+---
+>     "message": "自定义燃料"
+422c405
+<     "message": "Increasing fee may decrease processing times, but it is not guaranteed."
+---
+>     "message": "提升费用可能会缩短处理时间，但不保证绝对有效。"
+425c408
+<     "message": "Custom RPC"
+---
+>     "message": "自定义 RPC"
+428c411
+<     "message": "Custom Spend Limit"
+---
+>     "message": "自定义消费限额"
+431c414
+<     "message": "Custom Token"
+---
+>     "message": "自定义代币"
+434c417
+<     "message": "Some of your account data was backed up during a previous installation of MetaMask. This could include your settings, contacts, and tokens. Would you like to restore this data now?"
+---
+>     "message": "你的部分账户数据已在之前安装的 MetaMask 时备份。其中可能包括你的设置、联系人和代币。你现在想恢复这些数据吗？"
+437c420
+<     "message": "Decimals of Precision"
+---
+>     "message": "小数精度"
+440c423
+<     "message": "Decimals must be at least 0, and not over 36."
+---
+>     "message": "小数位最小为0并且不超过36位."
+443c426
+<     "message": "Decrypt"
+---
+>     "message": "解密"
+446c429
+<     "message": "Copy encrypted message"
+---
+>     "message": "复制加密信息"
+449,450c432
+<     "message": "This message cannot be decrypted due to error: $1",
+<     "description": "$1 is error message"
+---
+>     "message": "无法解密此消息，错误：$1"
+453,454c435
+<     "message": "$1 would like to read this message to complete your action",
+<     "description": "$1 is the web3 site name"
+---
+>     "message": "$1 希望阅读此信息来完成你的操作。"
+457c438
+<     "message": "Decrypt message"
+---
+>     "message": "解密信息"
+460c441
+<     "message": "Decrypt request"
+---
+>     "message": "解密请求"
+463c444
+<     "message": "The default network for Ether transactions is Main Net."
+---
+>     "message": "默认以太坊（Ether）交易网络为主网。"
+466c447
+<     "message": "Delete"
+---
+>     "message": "删除"
+469c450
+<     "message": "Delete Account"
+---
+>     "message": "删除账户"
+472c453
+<     "message": "Delete Network?"
+---
+>     "message": "删除网络？"
+475c456
+<     "message": "Are you sure you want to delete this network?"
+---
+>     "message": "是否确认要删除该网络？"
+478c459
+<     "message": "Deposit Ether"
+---
+>     "message": "存入 Ether"
+481c462
+<     "message": "Details"
+---
+>     "message": "详情"
+484c465
+<     "message": "Directly Deposit Ether"
+---
+>     "message": "直接存入 Ether"
+487c468
+<     "message": "If you already have some Ether, the quickest way to get Ether in your new wallet by direct deposit."
+---
+>     "message": "如果你已经有了一些 Ether，最快捷的方法就是直接向新钱包存入 Ether。"
+490c471
+<     "message": "Disconnect"
+---
+>     "message": "断开"
+493c474
+<     "message": "Disconnect all accounts"
+---
+>     "message": "断开所有账户"
+496c477
+<     "message": "Are you sure you want to disconnect? You may lose site functionality."
+---
+>     "message": "你确定要断开连接吗？你可能会失去网站功能。"
+499c480
+<     "message": "Disconnect $1"
+---
+>     "message": "断开 $1"
+502c483
+<     "message": "Disconnect this account"
+---
+>     "message": "断开此账户的连接"
+505c486
+<     "message": "Dismiss"
+---
+>     "message": "关闭"
+508c489
+<     "message": "Done"
+---
+>     "message": "完成"
+511c492
+<     "message": "Don’t have a hardware wallet?"
+---
+>     "message": "没有硬件钱包？"
+514c495
+<     "message": "Don't show this again"
+---
+>     "message": "不再显示"
+517c498
+<     "message": "Download Google Chrome"
+---
+>     "message": "下载 Google Chrome 浏览器"
+520c501
+<     "message": "Download this Secret Backup Phrase and keep it stored safely on an external encrypted hard drive or storage medium."
+---
+>     "message": "下载账户助记词，并将其安全保存在外部加密硬盘或存储介质上。"
+523c504
+<     "message": "Download State Logs"
+---
+>     "message": "下载状态日志"
+526c507
+<     "message": "Dropped"
+---
+>     "message": "丢弃"
+529c510
+<     "message": "Edit"
+---
+>     "message": "编辑"
+532c513
+<     "message": "Edit Contact"
+---
+>     "message": "编辑联系人"
+535c516
+<     "message": "Edit Permission"
+---
+>     "message": "编辑权限"
+538,539c519
+<     "message": "$1 would like your public encryption key. By consenting, this site will be able to compose encrypted messages to you.",
+<     "description": "$1 is the web3 site name"
+---
+>     "message": "$1 希望得到你的加密公钥。同意后该网站将可以想你发送加密信息。"
+542c522
+<     "message": "Request encryption public key"
+---
+>     "message": "申请加密公钥"
+545c525
+<     "message": "You passed the test - keep your seedphrase safe, it's your responsibility!"
+---
+>     "message": "你通过了测试—— 保管好你的账户助记词，这是你的责任!"
+548c528
+<     "message": "All Done"
+---
+>     "message": "全部完成"
+551c531
+<     "message": "Tips on storing it safely"
+---
+>     "message": "安全保存技巧"
+554c534
+<     "message": "Save a backup in multiple places."
+---
+>     "message": "在多处保存备份数据。"
+557c537
+<     "message": "Never share the phrase with anyone."
+---
+>     "message": "不向任何任何人分享该账户助记词。"
+560c540
+<     "message": "Be careful of phishing! MetaMask will never spontaneously ask for your seed phrase."
+---
+>     "message": "谨防网络钓鱼！MetaMask 绝不会主动要求你提供个人账户助记词。"
+563c543
+<     "message": "If you need to back up your seed phrase again, you can find it in Settings -> Security."
+---
+>     "message": "如果你需要再次备份账户助记词，请通过设置 -> 安全选项完成该操作。"
+566c546
+<     "message": "If you ever have questions or see something fishy, email support@metamask.io."
+---
+>     "message": "如果你仍存有疑问或发现任何可疑的地方，请发送电子邮件至 support@metamask.io 进行咨询。"
+569c549
+<     "message": "MetaMask cannot recover your seedphrase."
+---
+>     "message": "MetaMask 无法恢复你的账户助记词。"
+572c552
+<     "message": "Learn more."
+---
+>     "message": "了解详情。"
+575,576c555
+<     "message": "The endpoint returned a different chain ID: $1",
+<     "description": "$1 is the return value of eth_chainId from an RPC endpoint"
+---
+>     "message": "RPC 端点使用链不同的链 ID: $1"
+579c558
+<     "message": "ENS name not found on the current network. Try switching to Ethereum Mainnet."
+---
+>     "message": "未在当前网络找到 ENS 名称。请尝试切换至主以太坊网络。"
+582c561
+<     "message": "Error in ENS name registration"
+---
+>     "message": "ENS 名称登记错误"
+585c564
+<     "message": "Enter an alias"
+---
+>     "message": "输入别名"
+588c567
+<     "message": "Enter Max Spend Limit"
+---
+>     "message": "输入最高消费额度"
+591c570
+<     "message": "Enter password"
+---
+>     "message": "输入密码"
+594c573
+<     "message": "Enter password to continue"
+---
+>     "message": "输入密码以继续"
+597,598c576
+<     "message": "Code: $1",
+<     "description": "Displayed error code for debugging purposes. $1 is the error code"
+---
+>     "message": "代码：$1"
+601,602c579
+<     "message": "Error Details",
+<     "description": "Title for collapsible section that displays error details for debugging purposes"
+---
+>     "message": "错误详情"
+605,606c582
+<     "message": "Message: $1",
+<     "description": "Displayed error message for debugging purposes. $1 is the error message"
+---
+>     "message": "信息：$1"
+609,610c585
+<     "message": "Code: $1",
+<     "description": "Displayed error name for debugging purposes. $1 is the error name"
+---
+>     "message": "代码：$1"
+613,614c588
+<     "message": "Try again by reloading the page, or contact support at support@metamask.io",
+<     "description": "Message displayed on generic error page in the fullscreen or notification UI"
+---
+>     "message": "请重新加载页面重试，或通过 support@metamask.io 联系支持。"
+617,618c591
+<     "message": "Try again by closing and reopening the popup, or contact support at support@metamask.io",
+<     "description": "Message displayed on generic error page in the popup UI"
+---
+>     "message": "请关闭并重新打开弹窗再试一次，或通过 support@metamask.io 联系支持。"
+621,622c594
+<     "message": "MetaMask encountered an error",
+<     "description": "Title of generic error page"
+---
+>     "message": "MetaMask 遇到了一个错误"
+625,626c597
+<     "message": "Stack:",
+<     "description": "Title for error stack, which is displayed for debugging purposes"
+---
+>     "message": "栈："
+629c600
+<     "message": "Estimated Processing Times"
+---
+>     "message": "预计处理时间"
+632,633c603
+<     "message": "View the addresses of your permitted accounts (required)",
+<     "description": "The description for the `eth_accounts` permission"
+---
+>     "message": "查看你允许的账户的地址（必填）"
+636c606
+<     "message": "Ethereum Public Address"
+---
+>     "message": "以太坊 Ethereum 公开地址"
+639c609
+<     "message": "Etherscan"
+---
+>     "message": "Etherscan（以太坊浏览器）"
+642c612
+<     "message": "View account on Etherscan"
+---
+>     "message": "在 Etherscan（以太坊浏览器）上查看账户"
+645c615
+<     "message": "Expand view"
+---
+>     "message": "展开视图"
+648c618
+<     "message": "Export Private Key"
+---
+>     "message": "导出私钥"
+651c621
+<     "message": "External Extension"
+---
+>     "message": "外部扩展"
+654,655c624
+<     "message": "+$1 approval gas",
+<     "description": "Expresses an additional gas amount the user will have to pay, on top of some other displayed amount. $1 is a decimal amount of gas"
+---
+>     "message": "+$1 批准燃料"
+658c627
+<     "message": "Failed"
+---
+>     "message": "失败"
+661c630
+<     "message": "Could not fetch chain ID. Is your RPC URL correct?"
+---
+>     "message": "无法获取链 IC，你的 RPC URL 地址是正确的么？"
+664c633
+<     "message": "Something went wrong, and we were unable to complete the action"
+---
+>     "message": "出了点问题，我们无法完成这个操作。"
+667c636
+<     "message": "Fast"
+---
+>     "message": "快"
+670c639
+<     "message": "Fastest"
+---
+>     "message": "最快"
+673c642
+<     "message": "A fee is associated with this request."
+---
+>     "message": "此请求需要支付一定的费用。"
+676,677c645
+<     "message": "Fiat",
+<     "description": "Exchange type"
+---
+>     "message": "FIAT"
+680,681c648
+<     "message": "File import not working? Click here!",
+<     "description": "Helps user import their account from a JSON file"
+---
+>     "message": "文件导入失败？ 点击这里！"
+684c651
+<     "message": "Forbidden IPFS Gateway: Please specify a CID gateway"
+---
+>     "message": "禁用的 IPFS 网关：请指定一个 CID 网关"
+687c654
+<     "message": "Forget this device"
+---
+>     "message": "忘记此设备"
+690c657
+<     "message": "From"
+---
+>     "message": "从"
+693,694c660
+<     "message": "From: $1",
+<     "description": "$1 is the address to include in the From label. It is typically shortened first using shortenAddress"
+---
+>     "message": "从：$1"
+697c663
+<     "message": "Function: Approve"
+---
+>     "message": "功能：同意"
+700c666
+<     "message": "Function Type"
+---
+>     "message": "功能类型"
+703c669
+<     "message": "Gas Limit"
+---
+>     "message": "燃料限制"
+706c672
+<     "message": "Gas limit is the maximum amount of units of gas you are willing to spend."
+---
+>     "message": "燃料限制是指你愿意花费的最燃料量单位。"
+709c675
+<     "message": "Gas limit must be at least 21000"
+---
+>     "message": "燃料限制至少要 21000"
+712,713c678
+<     "message": "Gas limit must be at least $1",
+<     "description": "$1 is the custom gas limit, in decimal."
+---
+>     "message": "燃料限制至少要 $1"
+716c681
+<     "message": "Gas Price (GWEI)"
+---
+>     "message": "燃料价格（GWEI）"
+719c684
+<     "message": "Gas Price Extremely Low"
+---
+>     "message": "燃料价格极低"
+722c687
+<     "message": "Gas price specifies the amount of Ether you are willing to pay for each unit of gas."
+---
+>     "message": "燃料价格规定了你愿意为每单位燃料支付的 Ether 数量。"
+725c690
+<     "message": "Gas Used"
+---
+>     "message": "燃料使用"
+728,729c693
+<     "message": "This data is aggregated and is therefore anonymous for the purposes of General Data Protection Regulation (EU) 2016/679. For more information in relation to our privacy practices, please see our $1.",
+<     "description": "$1 refers to the gdprMessagePrivacyPolicy message, the translation of which is meant to be used exclusively in the context of gdprMessage"
+---
+>     "message": "这些数据是汇总的，因此，根据《GDPR 通用数据保护条例》(EU)2016/679，这些数据是匿名的。有关我们隐私惯例的更多信息，请参见我们的 $1。"
+732,733c696
+<     "message": "Privacy Policy here",
+<     "description": "this translation is intended to be exclusively used as the replacement for the $1 in the gdprMessage translation"
+---
+>     "message": "隐私政策"
+736c699
+<     "message": "General"
+---
+>     "message": "通用"
+739c702
+<     "message": "Currency conversion, primary currency, language, blockies identicon"
+---
+>     "message": "货币转换、主要价格单位、语言和 Blockies Identicon 图标头像"
+742c705
+<     "message": "Get Ether"
+---
+>     "message": "获取 Ether"
+745,746c708
+<     "message": "Get Ether from a faucet for the $1",
+<     "description": "Displays network name for Ether faucet"
+---
+>     "message": "从水管获取 $1 网络的 Ether"
+749c711
+<     "message": "Get Help."
+---
+>     "message": "获取帮助。"
+752c714
+<     "message": "Get Started"
+---
+>     "message": "开始使用"
+755c717
+<     "message": "Goerli Test Network"
+---
+>     "message": "Goerli 测试网络"
+758c720
+<     "message": "We’re happy to see you."
+---
+>     "message": "我们很高兴见到你。"
+761c723
+<     "message": "Hardware"
+---
+>     "message": "硬件"
+764c726
+<     "message": "Hardware wallet connected"
+---
+>     "message": "已连接的硬件钱包"
+767c729
+<     "message": "Connect a hardware wallet"
+---
+>     "message": "连接硬件钱包"
+770c732
+<     "message": "Select a hardware wallet you'd like to use with MetaMask"
+---
+>     "message": "选择希望用于 MetaMask 的硬件钱包"
+773c735
+<     "message": "Having trouble connecting?"
+---
+>     "message": "连接出现问题？"
+776,777c738
+<     "message": "here",
+<     "description": "as in -click here- for more information (goes with troubleTokenBalances)"
+---
+>     "message": "这里"
+780c741
+<     "message": "Hex Data"
+---
+>     "message": "十六进制数据"
+783c744
+<     "message": "Hide"
+---
+>     "message": "隐藏"
+786c747
+<     "message": "Hide Token?"
+---
+>     "message": "隐藏代币？"
+789,790c750
+<     "message": "Hide $1",
+<     "description": "$1 is the symbol for a token (e.g. 'DAI')"
+---
+>     "message": "隐藏 $1"
+793c753
+<     "message": "History"
+---
+>     "message": "历史记录"
+796,797c756
+<     "message": "Import",
+<     "description": "Button to import an account from a selected file"
+---
+>     "message": "导入"
+800c759
+<     "message": "Import Account"
+---
+>     "message": "导入账户"
+803c762
+<     "message": " Imported accounts will not be associated with your originally created MetaMask account seedphrase. Learn more about imported accounts "
+---
+>     "message": "导入的账户将不会与最初创建的 MetaMask 账户助记词相关联。了解更多有关导入账户的信息 。"
+806c765
+<     "message": "Import an account with seed phrase"
+---
+>     "message": "使用账户助记词导入账户"
+809c768
+<     "message": "Import using account seed phrase"
+---
+>     "message": "使用账户助记词导入"
+812c771
+<     "message": "Import wallet"
+---
+>     "message": "导入钱包"
+815c774
+<     "message": "Import your existing wallet using a 12 word seed phrase"
+---
+>     "message": "使用 12 个单词的账户助记词导入你现有的钱包账户。"
+818,819c777
+<     "message": "Imported",
+<     "description": "status showing that an account has been fully loaded into the keyring"
+---
+>     "message": "已导入"
+822c780
+<     "message": "Info & Help"
+---
+>     "message": "信息 & 帮助"
+825c783
+<     "message": "Your initial transaction was confirmed by the network. Click OK to go back."
+---
+>     "message": "你的初始交易已通过网络确认。请点击“确定”返回。"
+828c786
+<     "message": "Insufficient balance."
+---
+>     "message": "余额不足。"
+831c789
+<     "message": "Insufficient funds."
+---
+>     "message": "余额不足。"
+834c792
+<     "message": "Insufficient tokens."
+---
+>     "message": "代币余额不足。"
+837c795
+<     "message": "Invalid address"
+---
+>     "message": "无效地址"
+840c798
+<     "message": "Recipient address is invalid"
+---
+>     "message": "接收方地址无效"
+843c801
+<     "message": "Not ETH network, set to lowercase"
+---
+>     "message": "非 ETH 网络，请使用小写"
+846c804
+<     "message": "Invalid Block Explorer URL"
+---
+>     "message": "无效的区块浏览器 URL"
+849c807
+<     "message": "Invalid chain ID. The chain ID is too big."
+---
+>     "message": "无效的链 ID，该链 ID 数字过大。"
+852,853c810
+<     "message": "The chain ID for custom network '$1' has to be re-entered.",
+<     "description": "$1 is the name/identifier of the network."
+---
+>     "message": "需要重新输入自定义网络'$1'的链 ID。"
+856c813
+<     "message": "To protect you from malicious or faulty network providers, chain IDs are now required for all custom networks."
+---
+>     "message": "为了保护你免受恶意或有问题的网络提供商的侵害，现在所有的自定义网络都需要提供链 ID。"
+859,860c816
+<     "message": "Go to Settings > Network and enter the chain ID. You can find the chain IDs of most popular networks on $1.",
+<     "description": "$1 is a link to https://chainid.network"
+---
+>     "message": "进入设置 > 网络并输入链 ID。你可以通过 $1 查找常用的链 ID。"
+863c819
+<     "message": "Invalid Custom Network"
+---
+>     "message": "无效的自定义网络"
+866c822
+<     "message": "Invalid hexadecimal number."
+---
+>     "message": "无效的十六进制数。"
+869c825
+<     "message": "Invalid hexadecimal number. Remove any leading zeros."
+---
+>     "message": "无效的十六进制数。去除任何开头的零。"
+872c828
+<     "message": "Invalid IPFS Gateway: The value must be a valid URL"
+---
+>     "message": "无效的 IPFS 网关。该值必须是一个有效的 URL"
+875c831
+<     "message": "Invalid number. Enter a decimal or '0x'-prefixed hexadecimal number."
+---
+>     "message": "无效的数字。输入一个数字或‘0x’开头的十六进制数。"
+878c834
+<     "message": "Invalid number. Remove any leading zeros."
+---
+>     "message": "无效的数字。去除任何开头的零。"
+881c837
+<     "message": "Invalid RPC URL"
+---
+>     "message": "无效 RPC URL"
+884c840
+<     "message": "Invalid seed phrase"
+---
+>     "message": "无效的账户助记词"
+887c843
+<     "message": "IPFS Gateway"
+---
+>     "message": "IPFS 网关"
+890c846
+<     "message": "Enter the URL of the IPFS CID gateway to use for ENS content resolution."
+---
+>     "message": "输入用于 ENS 内容解析的 IPFS CID 网关的 URL。"
+893,894c849
+<     "message": "JSON File",
+<     "description": "format for importing an account"
+---
+>     "message": "JSON 文件"
+897c852
+<     "message": "Known contract address."
+---
+>     "message": "已知接收方地址。"
+900c855
+<     "message": "This action will edit tokens that are already listed in your wallet, which can be used to phish you. Only approve if you are certain that you mean to change what these tokens represent."
+---
+>     "message": "此操作将编辑已经在你的钱包中列出的代币，有肯能被用来欺骗你。只有确定要更改这些代币的内容时，才通过此操作。"
+903c858
+<     "message": "Kovan Test Network"
+---
+>     "message": "Kovan 测试网络"
+906c861
+<     "message": "Last Connected"
+---
+>     "message": "最后连接"
+909c864
+<     "message": "Learn more"
+---
+>     "message": "查看更多"
+912c867
+<     "message": "You need to make use your last account before you can add a new one."
+---
+>     "message": "在添加新的账户之前，需要使用你的最后一个账户。"
+915c870
+<     "message": "Yes, let’s get set up!"
+---
+>     "message": "第一次，立即开始设置！"
+918c873
+<     "message": "Would you like to add these tokens?"
+---
+>     "message": "你想添加这些代币吗？"
+921c876
+<     "message": "Links"
+---
+>     "message": "链接"
+924c879
+<     "message": "Load More"
+---
+>     "message": "加载更多"
+927c882
+<     "message": "Loading..."
+---
+>     "message": "加载中..."
+930c885
+<     "message": "Loading Tokens..."
+---
+>     "message": "加载代币中..."
+936c891
+<     "message": "Lock"
+---
+>     "message": "锁定"
+939c894
+<     "message": "Lock time is too great"
+---
+>     "message": "锁定时间过长"
+942c897
+<     "message": "Ethereum Mainnet"
+---
+>     "message": "以太坊 Ethereum 主网络"
+945c900
+<     "message": "Max"
+---
+>     "message": "最大"
+948c903
+<     "message": "memo"
+---
+>     "message": "备忘"
+951c906
+<     "message": "Memorize this phrase."
+---
+>     "message": "记住该账户助记词。"
+954c909
+<     "message": "Message"
+---
+>     "message": "消息"
+957c912
+<     "message": "You now have more control over your account connections in MetaMask."
+---
+>     "message": "现在你可在 MetaMask 中对账户连接进行更多的控制。"
+960c915
+<     "message": "Click it to manage your connected accounts."
+---
+>     "message": "点击管理连接的账户。"
+963c918
+<     "message": "The connection status button shows if the website you’re visiting is connected to your currently selected account."
+---
+>     "message": "连接状态按钮显示所访问的网站是否与你当前选择的账户连接。"
+966c921
+<     "message": "Connecting you to Ethereum and the Decentralized Web."
+---
+>     "message": "将你与 Ethereum 和去中心化网络连接起来。"
+969c924
+<     "message": "MetaMask Swaps is undergoing maintenance. Please check back later."
+---
+>     "message": "MetaMask Swaps 正在进行维护。请稍后访问。"
+972c927
+<     "message": "MetaMask Version"
+---
+>     "message": "MetaMask 版本"
+975c930
+<     "message": "Always allow you to opt-out via Settings"
+---
+>     "message": "始终允许你通过设置选择退出"
+978,979c933
+<     "message": "Never",
+<     "description": "This string is localized separately from some of the commitments so that we can bold it"
+---
+>     "message": "从不"
+982c936
+<     "message": "MetaMask will.."
+---
+>     "message": "MetaMask..."
+985,986c939
+<     "message": "$1 collect your full IP address",
+<     "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+---
+>     "message": "$1收集你的完整IP地址"
+989,990c942
+<     "message": "$1 collect keys, addresses, transactions, balances, hashes, or any personal information",
+<     "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+---
+>     "message": "$1收集密钥、地址、交易记录、余额、哈希或任何个人信息"
+993,994c945
+<     "message": "$1 sell data for profit. Ever!",
+<     "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+---
+>     "message": "$1为利益而出售你的数据，永远不会！"
+997c948
+<     "message": "Send anonymized click & pageview events"
+---
+>     "message": "发送匿名的点击和页面浏览事件信息"
+1000c951
+<     "message": "Help Us Improve MetaMask"
+---
+>     "message": "帮助我们让 MetaMask 变得更好"
+1003c954
+<     "message": "MetaMask would like to gather usage data to better understand how our users interact with the extension. This data will be used to continually improve the usability and user experience of our product and the Ethereum ecosystem."
+---
+>     "message": "MetaMask 希望收集使用数据，以更好地了解我们的用户如何与扩展进行互动。这些数据将被用于持续改进我们产品和 Ethereum 生态系统的可用性和用户体验。"
+1006c957
+<     "message": "Please enter your password to confirm it's you!"
+---
+>     "message": "请输入密码确认个人身份！"
+1009c960
+<     "message": "Must select at least 1 token."
+---
+>     "message": "至少选择 1 种代币。"
+1012c963
+<     "message": "My Accounts"
+---
+>     "message": "我的账户"
+1015c966
+<     "message": "My Wallet Accounts"
+---
+>     "message": "我的钱包账户"
+1018c969
+<     "message": "All of your MetaMask created accounts will automatically be added to this section."
+---
+>     "message": "所有创建的 MetaMask 账户将自动添加到此部分。"
+1021c972
+<     "message": "To interact with decentralized applications using MetaMask, you’ll need Ether in your wallet."
+---
+>     "message": "使用 MetaMask 与分布式应用交互，需要你的钱包里需要有 Ether。"
+1024,1025c975
+<     "message": "You must select a file to import.",
+<     "description": "User is important an account and needs to add a file to continue"
+---
+>     "message": "必须选择一个文件来导入。"
+1028c978
+<     "message": "Can not send negative amounts of ETH."
+---
+>     "message": "不能发负值的 ETH。"
+1031c981
+<     "message": "Network Name"
+---
+>     "message": "网络名称"
+1034c984
+<     "message": "The chain ID is used for signing transactions. It must match the chain ID returned by the network. You can enter a decimal or '0x'-prefixed hexadecimal number, but we will display the number in decimal."
+---
+>     "message": "链 ID 用于签署交易。它必须与网络返回的链 ID 相匹配。你可以输入十进制或'0x'前缀的十六进制数字，但我们将以十进制显示。"
+1037c987
+<     "message": "Add and edit custom RPC networks"
+---
+>     "message": "添加和编辑自定义 RPC 网络"
+1040c990
+<     "message": "Networks"
+---
+>     "message": "网络"
+1043c993
+<     "message": "Nevermind"
+---
+>     "message": "无所谓"
+1046c996
+<     "message": "New Account"
+---
+>     "message": "新账户"
+1049c999
+<     "message": "New address detected! Click here to add to your address book."
+---
+>     "message": "检测到新地址！点击添加至地址簿。"
+1052,1053c1002
+<     "message": "Account $1",
+<     "description": "Default name of next account to be created on create account screen"
+---
+>     "message": "账户 $1"
+1056c1005
+<     "message": "New Contact"
+---
+>     "message": "新联系人"
+1059c1008
+<     "message": "New Contract"
+---
+>     "message": "新合约"
+1062c1011
+<     "message": "New Network"
+---
+>     "message": "新增网络"
+1065c1014
+<     "message": "New password (min 8 chars)"
+---
+>     "message": "新密码（至少 8 个字符）"
+1068c1017
+<     "message": "New to MetaMask?"
+---
+>     "message": "第一次使用 MetaMask？"
+1071c1020
+<     "message": "New Total"
+---
+>     "message": "新总额"
+1074c1023
+<     "message": "New Transaction Fee"
+---
+>     "message": "新交易费用"
+1077c1026
+<     "message": "Next"
+---
+>     "message": "下一步"
+1080,1081c1029
+<     "message": "Nonce is higher than suggested nonce of $1",
+<     "description": "The next nonce according to MetaMask's internal logic"
+---
+>     "message": "Nonce 高于建议的 nouce 值 $1"
+1084c1032
+<     "message": "No accounts found for the given search query"
+---
+>     "message": "没找到查询的账户"
+1087c1035
+<     "message": "No address has been set for this name."
+---
+>     "message": "这个名字还没有设置地址。"
+1090c1038
+<     "message": "No, I already have a seed phrase"
+---
+>     "message": "不，我已经有一个账户助记词了。"
+1093c1041
+<     "message": "No Conversion Rate Available"
+---
+>     "message": "无可用转换率"
+1096c1044
+<     "message": "No Thanks"
+---
+>     "message": "不，谢谢"
+1099c1047
+<     "message": "You have no transactions"
+---
+>     "message": "没有交易"
+1102c1050
+<     "message": "Your computer's webcam was not found. Please try again."
+---
+>     "message": "未找到你的电脑摄像头。请重试。"
+1105c1053
+<     "message": "Webcam not found"
+---
+>     "message": "未找到摄像头"
+1108c1056
+<     "message": "Customize transaction nonce"
+---
+>     "message": "自定义交易 nonce"
+1111c1059
+<     "message": "Turn this on to change the nonce (transaction number) on confirmation screens. This is an advanced feature, use cautiously."
+---
+>     "message": "开启此功能可以改变确认屏幕上的 nonce（交易号）。此为高级功能，请谨慎使用。"
+1114c1062
+<     "message": "Custom Nonce"
+---
+>     "message": "自定义 Nonce"
+1117c1065
+<     "message": "Is this the correct account? It's different from the currently selected account in your wallet"
+---
+>     "message": "这是正确的账户吗？这与你钱包中当前选择的账户不同。"
+1120c1068
+<     "message": "Not Enough Gas"
+---
+>     "message": "燃料不足"
+1123c1071
+<     "message": "of"
+---
+>     "message": "/"
+1126c1074
+<     "message": "Off"
+---
+>     "message": "关"
+1129c1077
+<     "message": "Offline for maintenance"
+---
+>     "message": "脱机维护"
+1132c1080
+<     "message": "Ok"
+---
+>     "message": "确定"
+1135c1083
+<     "message": "On"
+---
+>     "message": "启用"
+1138,1139c1086
+<     "message": "\"$1\" will close this tab and direct back to $2",
+<     "description": "Return the user to the site that initiated onboarding"
+---
+>     "message": "“$1”会关闭此标签，直接回到 $2"
+1142c1089
+<     "message": "A malicious Ethereum network provider can lie about the state of the blockchain and record your network activity. Only add custom networks you trust."
+---
+>     "message": "恶意的 Ethereum 以太坊网络提供商可以伪造区块链状态，并记录你的网络活动。只添加你信任的自定义网络。"
+1145c1092
+<     "message": "Only available on mainnet"
+---
+>     "message": "仅在主网（mainnet）上提供"
+1148c1095
+<     "message": "Only connect with sites you trust."
+---
+>     "message": "只连接你信任的网站。"
+1151c1098
+<     "message": "Block Explorer URL (optional)"
+---
+>     "message": "区块浏览器 URL（选填）"
+1154c1101
+<     "message": "Currency Symbol (optional)"
+---
+>     "message": "符号（选填）"
+1157c1104
+<     "message": "Order a Trezor or Ledger and keep your funds in cold storage"
+---
+>     "message": "订购 Trezor 或 Ledger ，将个人资金进行冷存储"
+1160c1107
+<     "message": "Origin"
+---
+>     "message": "来源"
+1163c1110
+<     "message": "Parameters"
+---
+>     "message": "参数"
+1166c1113
+<     "message": "Participate in MetaMetrics"
+---
+>     "message": "加入 MetaMetrics"
+1169c1116
+<     "message": "Participate in MetaMetrics to help us make MetaMask better"
+---
+>     "message": "加入 MetaMetrics ，帮助我们改善 MetaMask 服务"
+1172c1119
+<     "message": "Password"
+---
+>     "message": "密码"
+1175c1122
+<     "message": "Password not long enough"
+---
+>     "message": "密码长度不足"
+1178c1125
+<     "message": "Passwords Don't Match"
+---
+>     "message": "密码不匹配"
+1181,1182c1128
+<     "message": "Paste your private key string here:",
+<     "description": "For importing an account from a private key"
+---
+>     "message": "请粘贴你的私钥:"
+1185c1131
+<     "message": "Pending"
+---
+>     "message": "待处理"
+1188c1134
+<     "message": "You have approved this permission"
+---
+>     "message": "你已同意该权限"
+1191c1137
+<     "message": "You have not approved this permission"
+---
+>     "message": "你还未同意该权限"
+1194c1140
+<     "message": "Permissions"
+---
+>     "message": "权限"
+1197c1143
+<     "message": "Personal address detected. Input the token contract address."
+---
+>     "message": "检测到个人地址。请输入代币合约地址。"
+1200,1201c1146
+<     "message": "+ $1 more",
+<     "description": "$1 is a number of additional but unshown items in a list- this message will be shown in place of those items"
+---
+>     "message": "+ $1"
+1204c1149
+<     "message": "Prev"
+---
+>     "message": "上一个"
+1207c1152
+<     "message": "Primary Currency"
+---
+>     "message": "主要货币"
+1210c1155
+<     "message": "Select native to prioritize displaying values in the native currency of the chain (e.g. ETH). Select Fiat to prioritize displaying values in your selected fiat currency."
+---
+>     "message": "请选择“本地”，优先显示当地货币链价值（如 ETH ）。选择“货币”则优先以所选货币作为价值显示单位。"
+1213c1158
+<     "message": "Privacy Policy"
+---
+>     "message": "隐私政策"
+1216,1217c1161
+<     "message": "Private Key",
+<     "description": "select this type of file to use to import an account"
+---
+>     "message": "私钥"
+1220c1164
+<     "message": "Warning: Never disclose this key. Anyone with your private keys can steal any assets held in your account."
+---
+>     "message": "注意：永远不要公开这个私钥。任何拥有你的私钥的人都可以窃取你帐户中的任何资产。"
+1223c1167
+<     "message": "Private Network"
+---
+>     "message": "私有网络"
+1226c1170
+<     "message": "Proposed Approval Limit"
+---
+>     "message": "拟议的审批上限"
+1229c1173
+<     "message": "Protect Your Keys!"
+---
+>     "message": "妥善保管你的密钥！"
+1232c1176
+<     "message": "Be careful with your seed phrase — there have been reports of websites that attempt to imitate MetaMask. MetaMask will never ask for your seed phrase!"
+---
+>     "message": "请注意个人账户助记词的安全。报告显示有多个网站企图伪造 MetaMask。MetaMask 绝不会要求你提供个人账户助记词！"
+1235c1179
+<     "message": "Keep your phrase safe. If you see something fishy, or you’re uncertain about a website, email support@metamask.io"
+---
+>     "message": "请妥善保管你的账户助记词。如果你发现任何可疑的地方，或无法确认网络安全性，请发送电子邮件至 support@metamask.io 进行咨询"
+1238c1182
+<     "message": "Provide"
+---
+>     "message": "提供"
+1241c1185
+<     "message": "Queue"
+---
+>     "message": "队列"
+1244c1188
+<     "message": "Queued"
+---
+>     "message": "队列中"
+1247c1191
+<     "message": "You can add this token back in the future by going to “Add token” in your accounts options menu."
+---
+>     "message": "之后你还可以通过帐户选项菜单中的“添加代币”来添加此代币。"
+1250c1194
+<     "message": "Ready to Connect?"
+---
+>     "message": "是否准备连接？"
+1253c1197
+<     "message": "Receive"
+---
+>     "message": "接收"
+1256c1200
+<     "message": "Recents"
+---
+>     "message": "最近记录"
+1259c1203
+<     "message": "Recipient Address"
+---
+>     "message": "接收地址"
+1262c1206
+<     "message": "Search, public address (0x), or ENS"
+---
+>     "message": "查找、公用地址 (0x) 或 ENS"
+1265c1209
+<     "message": "Reject"
+---
+>     "message": "拒绝"
+1268c1212
+<     "message": "Reject All"
+---
+>     "message": "拒绝全部"
+1271c1215
+<     "message": "You are about to batch reject $1 transactions."
+---
+>     "message": "你将批量拒绝 $1 笔交易。"
+1274c1218
+<     "message": "Reject $1 transactions"
+---
+>     "message": "拒绝 $1 笔交易"
+1277c1221
+<     "message": "Rejected"
+---
+>     "message": "拒绝"
+1280c1224
+<     "message": "Remind me later"
+---
+>     "message": "稍后提醒"
+1283c1227
+<     "message": "Remove"
+---
+>     "message": "删除"
+1286c1230
+<     "message": "Remove account"
+---
+>     "message": "删除账户"
+1289c1233
+<     "message": "This account will be removed from your wallet. Please make sure you have the original seed phrase or private key for this imported account before continuing. You can import or create accounts again from the account drop-down. "
+---
+>     "message": "该账户已从你的钱包中删除。请在继续后续操作前，确认你是否已拥有该导入账户的原始账户助记词或账户密钥。你可以通过账户下拉菜单再次导入或创建账户。"
+1292c1236
+<     "message": "requests waiting to be acknowledged"
+---
+>     "message": "待确认的请求"
+1295c1239
+<     "message": "Required"
+---
+>     "message": "必填"
+1298c1242
+<     "message": "Reset"
+---
+>     "message": "重置"
+1301c1245
+<     "message": "Reset Account"
+---
+>     "message": "重设账户"
+1304c1248
+<     "message": "Resetting your account will clear your transaction history. This will not change the balances in your accounts or require you to re-enter your seed phrase."
+---
+>     "message": "重置账户将清除你的交易历史记录。这不会改变你账户中的余额，也不会要求你重新输入账户助记词。"
+1307c1251
+<     "message": "Restore"
+---
+>     "message": "恢复"
+1310c1254
+<     "message": "Restore your Account with Seed Phrase"
+---
+>     "message": "使用账户助记词恢复你的账户"
+1313c1257
+<     "message": "Restore account?"
+---
+>     "message": "从助记词还原"
+1316,1317c1260
+<     "message": "A backup of your data from $1 has been found. Would you like to restore your wallet preferences?",
+<     "description": "$1 is the date at which the data was backed up"
+---
+>     "message": "已找到于 $1 的数据备份。你想恢复你的钱包设置吗？"
+1320c1263
+<     "message": "Retry Transaction"
+---
+>     "message": "重试交易"
+1323c1266
+<     "message": "A token here reuses a symbol from another token you watch, this can be confusing or deceptive."
+---
+>     "message": "此处的一个代币使用了与你关注的另一个代币的相同符号，这可能会让人感到困惑或欺骗。"
+1326c1269
+<     "message": "Reveal Seed Phrase"
+---
+>     "message": "显示账户助记词"
+1329c1272
+<     "message": "If you ever change browsers or move computers, you will need this seed phrase to access your accounts. Save them somewhere safe and secret."
+---
+>     "message": "如果你更换浏览器或计算机，则需要使用此账户助记词访问你的帐户。请将它们保存在安全秘密的地方。"
+1332c1275
+<     "message": "Seed Phrase"
+---
+>     "message": "账户助记词"
+1335c1278
+<     "message": "These words can be used to steal all your accounts."
+---
+>     "message": "该账户助记词可以用来窃取你的所有帐户"
+1338c1281
+<     "message": "DO NOT share this phrase with anyone!"
+---
+>     "message": "不要对任何人展示此账户助记词！"
+1341c1284
+<     "message": "Rinkeby Test Network"
+---
+>     "message": "Rinkeby 测试网络"
+1344c1287
+<     "message": "Ropsten Test Network"
+---
+>     "message": "Ropsten 测试网络"
+1347c1290
+<     "message": "New RPC URL"
+---
+>     "message": "新增 RPC URL"
+1350c1293
+<     "message": "Save"
+---
+>     "message": "保存"
+1353c1296
+<     "message": "Save as CSV File"
+---
+>     "message": "保存为 CSV 文件"
+1356c1299
+<     "message": "Place the QR code in front of your camera"
+---
+>     "message": "将二维码放在相机前"
+1359c1302
+<     "message": "Scan QR Code"
+---
+>     "message": "扫描二维码"
+1362c1305
+<     "message": "Scroll down"
+---
+>     "message": "向下滚动"
+1365c1308
+<     "message": "Search"
+---
+>     "message": "搜索"
+1368c1311
+<     "message": "Search Accounts"
+---
+>     "message": "搜索账户"
+1371c1314
+<     "message": "Search Results"
+---
+>     "message": "搜索结果"
+1374c1317
+<     "message": "Search Tokens"
+---
+>     "message": "搜索代币"
+1377c1320
+<     "message": "Secret Backup Phrase"
+---
+>     "message": "账户助记词"
+1380c1323
+<     "message": "Your secret backup phrase makes it easy to back up and restore your account."
+---
+>     "message": "你的账户助记词可以帮助你轻松备份和恢复个人账户。"
+1383c1326
+<     "message": "WARNING: Never disclose your backup phrase. Anyone with this phrase can take your Ether forever."
+---
+>     "message": "警告：切勿向他人透露你的账户助记词。任何人一旦持有该账户助记词，即可控制你的 Ether。"
+1386c1329
+<     "message": "Enter your secret twelve word phrase here to restore your vault."
+---
+>     "message": "输入 12 个单词组成的账户助记词恢复你的账户。"
+1389c1332
+<     "message": "Security & Privacy"
+---
+>     "message": "安全与隐私"
+1392c1335
+<     "message": "Privacy settings and wallet seed phrase"
+---
+>     "message": "隐私设置和账户助记词"
+1395c1338
+<     "message": "Separate each word with a single space"
+---
+>     "message": "用空格分隔每个单词"
+1398c1341
+<     "message": "Paste seed phrase from clipboard"
+---
+>     "message": "从剪贴板粘贴账户助记词"
+1401c1344
+<     "message": "Seed phrases contain 12, 15, 18, 21, or 24 words"
+---
+>     "message": "账户助记词由 12、15、18、21 或 24 个单词组成"
+1404c1347
+<     "message": "Select a higher gas fee to accelerate the processing of your transaction.*"
+---
+>     "message": "选择更高的燃料费用，提高交易处理速度。*"
+1407c1350
+<     "message": "Select account(s)"
+---
+>     "message": "选择账户"
+1410c1353
+<     "message": "Select all"
+---
+>     "message": "全部选择"
+1413c1356
+<     "message": "Select an Account"
+---
+>     "message": "选择一个账户"
+1416c1359
+<     "message": "Select the account to view in MetaMask"
+---
+>     "message": "选择在 MetaMask 中查看的账户"
+1419c1362
+<     "message": "Select Currency"
+---
+>     "message": "选择货币"
+1422c1365
+<     "message": "Please select each phrase in order to make sure it is correct."
+---
+>     "message": "请选择每个单词，以确保其正确性。"
+1425c1368
+<     "message": "Select HD Path"
+---
+>     "message": "选择 HD 路径"
+1428c1371
+<     "message": "Select Locale"
+---
+>     "message": "选择语言区域"
+1431c1374
+<     "message": "If you don't see your existing Ledger accounts below, try switching paths to \"Legacy (MEW / MyCrypto)\""
+---
+>     "message": "如果下列账户中没有你当前所持有的 Ledger 账户，请将路径切换至“Legacy (MEW / MyCrypto)”"
+1434c1377
+<     "message": "Select Type"
+---
+>     "message": "选择类型"
+1437c1380
+<     "message": "Selecting all will allow this site to view all of your current accounts. Make sure you trust this site."
+---
+>     "message": "选择全部将允许本网站查看你当前的所有账户。确保你信任这个网站。"
+1440c1383
+<     "message": "Send"
+---
+>     "message": "发送"
+1443c1386
+<     "message": "Send Amount"
+---
+>     "message": "发送数额"
+1446c1389
+<     "message": "Send ETH"
+---
+>     "message": "发送 ETH"
+1449,1450c1392
+<     "message": "Send $1",
+<     "description": "Symbol of the specified token"
+---
+>     "message": "发送 $1"
+1453c1395
+<     "message": "Send Tokens"
+---
+>     "message": "发送代币"
+1456c1398
+<     "message": "sent ether"
+---
+>     "message": "发送 Ether"
+1459c1401
+<     "message": "Separate each word with a single space"
+---
+>     "message": "用空格分隔每个单词"
+1462c1404
+<     "message": "Settings"
+---
+>     "message": "设置"
+1465c1407
+<     "message": "Advanced gas controls"
+---
+>     "message": "高级燃料控制"
+1468c1410
+<     "message": "Select this to show gas price and limit controls directly on the send and confirm screens."
+---
+>     "message": "在发送和确认界面显示燃料价格和燃料限制设置选项。"
+1471c1413
+<     "message": "Show Conversion on Testnets"
+---
+>     "message": "在 Testnets 上显示兑换率"
+1474c1416
+<     "message": "Select this to show fiat conversion on Testnets"
+---
+>     "message": "请选择该选项，在 Testnets 上显示法定兑换率"
+1477c1419
+<     "message": "Show Hex Data"
+---
+>     "message": "显示十六进制数据"
+1480c1422
+<     "message": "Select this to show the hex data field on the send screen"
+---
+>     "message": "请选择该选项，在发送页面显示十六进制数据字域"
+1483c1425
+<     "message": "Show Incoming Transactions"
+---
+>     "message": "显示收到的交易"
+1486c1428
+<     "message": "Select this to use Etherscan to show incoming transactions in the transactions list"
+---
+>     "message": "选择该选项可使用 Etherscan（以太坊浏览器）（以太坊浏览器）在交易列表中显示收到的交易。"
+1489c1431
+<     "message": "Show permissions"
+---
+>     "message": "显示权限"
+1492c1434
+<     "message": "Show Private Keys"
+---
+>     "message": "显示私钥"
+1495c1437
+<     "message": "Show seed phrase"
+---
+>     "message": "显示账户助记词"
+1498c1440
+<     "message": "Signature Request"
+---
+>     "message": "请求签名"
+1501c1443
+<     "message": "Sign"
+---
+>     "message": "签名"
+1504c1446
+<     "message": "Signing this message can have \ndangerous side effects. Only sign messages from \nsites you fully trust with your entire account.\n This dangerous method will be removed in a future version. "
+---
+>     "message": "签署此消息可能会产生危险的副作用。 \n只从你完全信任的网站上签名。 未来的版本将移除这种危险的方法。"
+1507c1449
+<     "message": "Signature Request"
+---
+>     "message": "请求签名"
+1510c1452
+<     "message": "Message"
+---
+>     "message": "信息"
+1513c1455
+<     "message": "Signed"
+---
+>     "message": "已签名"
+1516c1458
+<     "message": "Slow"
+---
+>     "message": "慢"
+1519c1461
+<     "message": "Oops! Something went wrong."
+---
+>     "message": "糟糕！出问题了。"
+1522c1464
+<     "message": "Speed Up"
+---
+>     "message": "加速"
+1525c1467
+<     "message": "Speed up this cancellation"
+---
+>     "message": "加速该取消操作"
+1528c1470
+<     "message": "Speed up this transaction"
+---
+>     "message": "加速该交易操作"
+1531c1473
+<     "message": "Spend limit amount"
+---
+>     "message": "消费限额数量"
+1534c1476
+<     "message": "Spend limit insufficient"
+---
+>     "message": "消费限额不足"
+1537c1479
+<     "message": "Spend limit invalid; must be a positive number"
+---
+>     "message": "消费限制无效，必须是正数。"
+1540c1482
+<     "message": "Spend limit permission"
+---
+>     "message": "消费限制权限"
+1543,1544c1485
+<     "message": "Spend limit requested by $1",
+<     "description": "Origin of the site requesting the spend limit"
+---
+>     "message": "消费限制申请来自 $1"
+1547c1488
+<     "message": "Spend limit too large"
+---
+>     "message": "消费限制过大"
+1550c1491
+<     "message": "Error in retrieving state logs."
+---
+>     "message": "检索状态日志时出错。"
+1553c1494
+<     "message": "MetaMask State Logs"
+---
+>     "message": "MetaMask 状态日志"
+1556c1497
+<     "message": "State Logs"
+---
+>     "message": "状态日志"
+1559c1500
+<     "message": "State logs contain your public account addresses and sent transactions."
+---
+>     "message": "状态日志包含你的账户地址和已发送的交易。"
+1562c1503
+<     "message": "Connected"
+---
+>     "message": "已连接"
+1565c1506
+<     "message": "Not connected"
+---
+>     "message": "未连接"
+1568c1509
+<     "message": "1. Connect Hardware Wallet"
+---
+>     "message": "1. 连接硬件钱包"
+1571c1512
+<     "message": "Connect your hardware wallet directly to your computer."
+---
+>     "message": "将你的硬件钱包直接连接到电脑上。"
+1574c1515
+<     "message": "2. Select an Account"
+---
+>     "message": "2. 选择账户"
+1577c1518
+<     "message": "Select the account you want to view. You can only choose one at a time."
+---
+>     "message": "请选择你想查看的账户。每次只能选择一个账户。"
+1580c1521
+<     "message": "3. Start using web3 sites and more!"
+---
+>     "message": "3. 开始使用 web3 站点和更多功能！"
+1583c1524
+<     "message": "Use your hardware account like you would with any Ethereum account. Connect to web3 sites, send ETH, buy and store ERC20 tokens and non-fungible tokens like CryptoKitties."
+---
+>     "message": "使用你的硬件钱包，操作与以太坊账户制作相同。登录 dApps，发送 ETH ，购买和保存 ERC20 代币和诸如 CryptoKitties 等不可替代代币。"
+1586c1527
+<     "message": "Store this phrase in a password manager like 1Password."
+---
+>     "message": "通过如 1Password 等密码管理工具保存该账户助记词。"
+1589c1530
+<     "message": "Submit"
+---
+>     "message": "提交"
+1592c1533
+<     "message": "Submitted"
+---
+>     "message": "已提交"
+1595c1536
+<     "message": "Visit our Support Center"
+---
+>     "message": "访问我们的支持中心"
+1598c1539
+<     "message": "Swap"
+---
+>     "message": "兑换 Swap"
+1601c1542
+<     "message": "If the price changes between the time your order is placed and confirmed it’s called “slippage”. Your swap will automatically cancel if slippage exceeds your “max slippage” setting."
+---
+>     "message": "如果价格在你下单和确认之间发生变化，这就叫做“滑点”。如果滑点超过你的“最大滑点”设置，你的的兑换将自动取消。"
+1604c1545
+<     "message": "Aggregator"
+---
+>     "message": "聚合商"
+1607c1548
+<     "message": "Guaranteed amount"
+---
+>     "message": "保证数额"
+1610c1551
+<     "message": "This is the minimum amount you will receive. You may receive more depending on slippage."
+---
+>     "message": "这是你将收到的最低数额。你也可能会收到更多，这取决于滑点。"
+1613,1614c1554
+<     "message": "Approve $1 for swaps",
+<     "description": "Used in the transaction display list to describe a transaction that is an approve call on a token that is to be swapped.. $1 is the symbol of a token that has been approved."
+---
+>     "message": "批准 $1 的兑换 "
+1617,1618c1557
+<     "message": "You need $1 more $2 to complete this swap",
+<     "description": "Tells the user how many more of a given token they need for a specific swap. $1 is an amount of tokens and $2 is the token symbol."
+---
+>     "message": "你还需 $1 $2 来完成这笔兑换"
+1621c1560
+<     "message": "A better quote is available"
+---
+>     "message": "有一个更好的报价可用"
+1624,1625c1563
+<     "message": "No tokens available matching $1",
+<     "description": "Tells the user that a given search string does not match any tokens in our token lists. $1 can be any string of text"
+---
+>     "message": "没有匹配的代币符合 $1"
+1628,1629c1566
+<     "message": "Checking $1",
+<     "description": "Shown to the user during quote loading. $1 is the name of an aggregator. The message indicates that metamask is currently checking if that aggregator has a trade/quote for their requested swap."
+---
+>     "message": "正在检查 $1"
+1632c1569
+<     "message": "custom"
+---
+>     "message": "自定义"
+1635c1572
+<     "message": "Decentralized exchange"
+---
+>     "message": "去中心化交易所"
+1638c1575
+<     "message": "Edit limit"
+---
+>     "message": "修改限制"
+1641,1642c1578
+<     "message": "This is required and gives MetaMask permission to swap your $1.",
+<     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
+---
+>     "message": "这是必须的，并且允许 MetaMask 兑换你的 $1。"
+1645c1581
+<     "message": "Estimated network fee"
+---
+>     "message": "预计网络手续费"
+1648,1649c1584
+<     "message": "The “$1” is what we expect the actual fee to be. The exact amount depends on network conditions.",
+<     "description": "$1 will be the translation of swapEstimatedNetworkFee, with the font bolded"
+---
+>     "message": "“$1”是我们预计的实际产生费用。具体数额视网络情况而定。"
+1652c1587
+<     "message": "Estimated network fees"
+---
+>     "message": "预计网络手续费"
+1655c1590
+<     "message": "This is an estimate of the network fee that will be used to complete your swap. The actual amount may change according to network conditions."
+---
+>     "message": "这是预估的用于完成你的兑换所使用的网络手续费。实际数额可能会根据网络条件而变化。"
+1658c1593
+<     "message": "Your funds are safe and still available in your wallet."
+---
+>     "message": "你的资金是安全的，仍然可以在你的钱包中使用。"
+1661c1596
+<     "message": "Swap failed"
+---
+>     "message": "兑换失败"
+1664c1599
+<     "message": "Hmmm... something went wrong. Try again, or if errors persist, contact customer support."
+---
+>     "message": "呃...出错了。再试一次，如果错误仍存在，请联系客户支持。"
+1667c1602
+<     "message": "Error fetching quotes"
+---
+>     "message": "获取报价出错"
+1670c1605
+<     "message": "Fetching tokens..."
+---
+>     "message": "获取代币中..."
+1673c1608
+<     "message": "Finalizing..."
+---
+>     "message": "确定中..."
+1676c1611
+<     "message": "Get quotes"
+---
+>     "message": "获取报价"
+1679c1614
+<     "message": "Slippage amount is very high. Make sure you know what you are doing!"
+---
+>     "message": "滑点数量非常大。确保你知道你的操作！"
+1682c1617
+<     "message": "Want to learn more?"
+---
+>     "message": "想了解更多信息？"
+1685c1620
+<     "message": "Learn more about MetaMask Swaps"
+---
+>     "message": "了解更多关于 MetaMask Swap（兑换）"
+1688c1623
+<     "message": "Liquidity sources include:"
+---
+>     "message": "流动资金来源包括："
+1691c1626
+<     "message": "You can now swap tokens directly in your MetaMask wallet. MetaMask Swaps combines multiple decentralized exchange aggregators, professional market makers, and individual DEXs to ensure MetaMask users always get the best price with the lowest network fees."
+---
+>     "message": "现在你可以直接在 MetaMask 钱包中兑换代币。MetaMask Swaps（兑换）结合了多个去中心化交易所聚合商、专业做市商和个人 DEX，确保 MetaMask 用户始终以最低的网络费用获得最佳价格。"
+1694c1629
+<     "message": "Token swapping is here!"
+---
+>     "message": "代币兑换来了！"
+1697c1632
+<     "message": "Review our official contracts audit"
+---
+>     "message": "查看我们的官方合约审计"
+1700c1635
+<     "message": "Transaction may fail, max slippage too low."
+---
+>     "message": "交易可能失败，最大滑点过低。"
+1703,1704c1638
+<     "message": "“$1” is the most you’ll spend. When the network is volatile this can be a large amount.",
+<     "description": "$1 will be the translation of swapMaxNetworkFees, with the font bolded"
+---
+>     "message": "“$1”是你最多所话费的数量，当网络不稳定时，这可能是一个大的数额。"
+1707c1641
+<     "message": "Max network fee"
+---
+>     "message": "最大网络手续费"
+1710c1644
+<     "message": "Max slippage"
+---
+>     "message": "最大滑点"
+1713c1647
+<     "message": "MetaMask fee"
+---
+>     "message": "MetaMask 手续费"
+1716,1717c1650
+<     "message": "We find the best price from the top liquidity sources, every time. A fee of $1% is automatically factored into each quote, which supports ongoing development to make MetaMask even better.",
+<     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
+---
+>     "message": "我们每次都能从顶级流动性资源中找到最好的价格。每次报价都会自动收取1%的手续费用，以支持 MetaMask 的持续发展，使其更加完善。"
+1720,1721c1653
+<     "message": "$1 quotes",
+<     "description": "$1 is the number of quotes that the user can select from when opening the list of quotes on the 'view quote' screen"
+---
+>     "message": "$1 个报价"
+1724c1656
+<     "message": "The network fee covers the cost of processing your swap and storing it on the Ethereum network. MetaMask does not profit from this fee."
+---
+>     "message": "网络手续费包括处理你的兑换和在以太坊（Ethereum）网络上存储的成本。MetaMask 不从这笔费用中获利。"
+1727,1728c1659
+<     "message": "New quotes in $1",
+<     "description": "Tells the user the amount of time until the currently displayed quotes are update. $1 is a time that is counting down from 1:00 to 0:00"
+---
+>     "message": "$1 后更新报价"
+1731,1732c1662
+<     "message": "Your $1 will be added to your account once this transaction has processed.",
+<     "description": "This message communicates the token that is being transferred. It is shown on the awaiting swap screen. The $1 will be a token symbol."
+---
+>     "message": "一旦交易完成，你的 $1 将被添加到你的账户中。"
+1735,1736c1665
+<     "message": "You are about to swap $1 $2 (~$3) for $4 $5 (~$6).",
+<     "description": "This message represents the price slippage for the swap.  $1 and $4 are a number (ex: 2.89), $2 and $5 are symbols (ex: ETH), and $3 and $6 are fiat currency amounts."
+---
+>     "message": "你将兑换 $1 $2（~$3）为 $4 $5（~$6）。"
+1739,1740c1668
+<     "message": "Price difference of ~$1%",
+<     "description": "$1 is a number (ex: 1.23) that represents the price difference."
+---
+>     "message": "价格差异 ~$1%"
+1743c1671
+<     "message": "The difference in market prices can be affected by fees taken by intermediaries, size of market, size of trade, or market inefficiencies."
+---
+>     "message": "市场价格的差异可能受到中介机构收取的费用、市场规模、交易规模或市场效率低下的影响。"
+1746c1674
+<     "message": "Market price is unavailable.  Make sure you feel comfortable with the returned amount before proceeding."
+---
+>     "message": "市场价格不可用。 请确认你对退回的数额感到满意后再继续。"
+1749c1677
+<     "message": "Processing"
+---
+>     "message": "处理中"
+1752c1680
+<     "message": "Quote details"
+---
+>     "message": "报价详情"
+1755c1683
+<     "message": "If the price changes between the time your order is placed and confirmed it’s called \"slippage\". Your Swap will automatically cancel if slippage exceeds your \"slippage tolerance\" setting."
+---
+>     "message": "如果在你下订单和确认订单之间的价格发生了变化，这就叫做\"滑点\"。如果滑点超过你的\"最大滑点\"设置，你的兑换将自动取消。"
+1758,1759c1686
+<     "message": "Quote includes a $1% MetaMask fee",
+<     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
+---
+>     "message": "报价包含 $1% MetaMask 手续费"
+1762,1763c1689
+<     "message": "Quote $1 of $2",
+<     "description": "A count of loaded quotes shown to the user while they are waiting for quotes to be fetched. $1 is the number of quotes already loaded, and $2 is the total number of quotes to load."
+---
+>     "message": "报价 $1 / $2"
+1766c1692
+<     "message": "Quote source"
+---
+>     "message": "报价来源"
+1769c1695
+<     "message": "Quotes are refreshed often to reflect current market conditions."
+---
+>     "message": "报价会经常刷新，以反映当前的市场状况。"
+1772c1698
+<     "message": "Please request new quotes to get the latest rates."
+---
+>     "message": "请请求新的报价，以获得最新的价格。"
+1775c1701
+<     "message": "Quotes timeout"
+---
+>     "message": "报价超时"
+1778c1704
+<     "message": "Try adjusting the amount or slippage settings and try again."
+---
+>     "message": "尝试调整滑点数量设置，并再试一次。"
+1781c1707
+<     "message": "No quotes available"
+---
+>     "message": "无可用报价"
+1784c1710
+<     "message": "Rate"
+---
+>     "message": "费率"
+1787c1713
+<     "message": "Receiving"
+---
+>     "message": "接收"
+1790c1716
+<     "message": "This is an estimate. The exact amount depends on slippage."
+---
+>     "message": "这是一个预估数额。确切的数额取决于滑点。"
+1793c1719
+<     "message": "Request for quotation"
+---
+>     "message": "请求报价"
+1796c1722
+<     "message": "Search for a token"
+---
+>     "message": "搜索代币"
+1799c1725
+<     "message": "Select"
+---
+>     "message": "选择"
+1802c1728
+<     "message": "Select a quote"
+---
+>     "message": "选择一个报价"
+1805c1731
+<     "message": "Select a token"
+---
+>     "message": "选择一个代币"
+1808c1734
+<     "message": "Below are all the quotes gathered from multiple liquidity sources."
+---
+>     "message": "以下是从多个流动资金来源收集到的所有报价。"
+1811c1737
+<     "message": "Slippage must be greater than zero"
+---
+>     "message": "滑点必须大于零"
+1814c1740
+<     "message": "Liquidity source"
+---
+>     "message": "流动资金来源"
+1817c1743
+<     "message": "We search multiple liquidity sources (exchanges, aggregators and professional market makers) to find the best rates and lowest network fees."
+---
+>     "message": "我们搜索多个流动性来源（交易所、聚合商和专业做市商），以找到最好的利率和最低的网络手续费。"
+1820c1746
+<     "message": "Start swapping"
+---
+>     "message": "开始兑换"
+1823c1749
+<     "message": "Swap from"
+---
+>     "message": "兑换自"
+1826c1752
+<     "message": "Switch from and to tokens"
+---
+>     "message": "切换兑换代币方向"
+1829c1755
+<     "message": "Swap to"
+---
+>     "message": "兑换到"
+1832c1758
+<     "message": "This will allow $1 to be swapped."
+---
+>     "message": "这样将允许 $1 用于兑换。"
+1835,1836c1761
+<     "message": "Your $1 has been added to your account.",
+<     "description": "This message is shown after a swap is successful and communicates the exact amount of tokens the user has received for a swap. The $1 is a decimal number of tokens followed by the token symbol."
+---
+>     "message": "你的 $1 已添加到你的账户。"
+1839,1840c1764
+<     "message": "Swap $1 to $2",
+<     "description": "Used in the transaction display list to describe a swap. $1 and $2 are the symbols of tokens in involved in a swap."
+---
+>     "message": "兑换 $1 到 $2"
+1843c1767
+<     "message": "Transaction complete"
+---
+>     "message": "交易完成"
+1846c1770
+<     "message": "Unknown"
+---
+>     "message": "未知的"
+1849c1773
+<     "message": "Using the best quote"
+---
+>     "message": "使用最好的报价"
+1852c1776
+<     "message": "Multiple tokens can use the same name and symbol. Check Etherscan to verify this is the token you're looking for."
+---
+>     "message": "多个代币可以使用相同的名称和符号。检查 Etherscan（以太坊浏览器）以确认这是您正在寻找的代币。"
+1855c1779
+<     "message": "View $1"
+---
+>     "message": "查看 $1"
+1858,1859c1782
+<     "message": "$1 $2 available to swap",
+<     "description": "Tells the user how much of a token they have in their balance. $1 is a decimal number amount of tokens, and $2 is a token symbol"
+---
+>     "message": "$1 $2 可用"
+1862c1785
+<     "message": "0% Slippage"
+---
+>     "message": "0% 滑点"
+1865c1788
+<     "message": "Advanced Options"
+---
+>     "message": "高级选项"
+1868c1791
+<     "message": "Slippage amount is too high and will result in a bad rate. Please reduce your slippage tolerance to a value below 15%."
+---
+>     "message": "滑点数额太高，会导致不良率。请将滑点设置降低到 15% 以下。"
+1871c1794
+<     "message": "Slippage Tolerance"
+---
+>     "message": "最大滑点"
+1874,1875c1797
+<     "message": "Not enough $1 to complete this transaction",
+<     "description": "Tells the user that they don't have enough of a token for a proposed swap. $1 is a token symbol"
+---
+>     "message": "没有足够的 $1 来完成此交易"
+1878c1800
+<     "message": "View in activity"
+---
+>     "message": "在活动中查看"
+1881c1803
+<     "message": "Switch Networks"
+---
+>     "message": "切换网络"
+1884c1806
+<     "message": "Switch to this account"
+---
+>     "message": "切换到该账户"
+1887c1809
+<     "message": "Symbol"
+---
+>     "message": "符号"
+1890c1812
+<     "message": "Symbol must be 11 characters or fewer."
+---
+>     "message": "符号不得超过 11 个字符。"
+1893c1815
+<     "message": "Sync with mobile"
+---
+>     "message": "使用移动设备同步"
+1896c1818
+<     "message": "Make sure nobody else is looking at your screen when you scan this code"
+---
+>     "message": "扫描这个代码时，请确保附近没有其他人在看你的屏幕。"
+1899c1821
+<     "message": "Your data has been synced successfully. Enjoy the MetaMask mobile app!"
+---
+>     "message": "你的数据已同步成功。尽情体验 MetaMask 应用程序！"
+1902c1824
+<     "message": "You can sync your accounts and information with your mobile device. Open the MetaMask mobile app, go to \"Settings\" and tap on \"Sync from Browser Extension\""
+---
+>     "message": "你可以使用个人移动设备同步个人账户与信息。打开 MetaMask 移动应用程序，进入“设置”选项，点击“通过浏览器扩展程序同步”"
+1905c1827
+<     "message": "If you just open the MetaMask Mobile app for the first time, just follow the steps in your phone."
+---
+>     "message": "如果你是首次启用 MetaMask 移动应用程序，请通过个人手机完成如下操作。"
+1908c1830
+<     "message": "Scan this code with your MetaMask mobile app"
+---
+>     "message": "使用 MetaMask 应用程序扫描代码"
+1911c1833
+<     "message": "Sync with mobile"
+---
+>     "message": "使用移动设备进行同步"
+1914c1836
+<     "message": "Sync data with 3Box (experimental)"
+---
+>     "message": "使用 3Box 同步数据（实验功能）"
+1917c1839
+<     "message": "Turn on to have your settings backed up with 3Box. This feature is currently experimental; use at your own risk."
+---
+>     "message": "开启后可以用 3Box 备份你的设置。此功能目前是实验功能，使用时风险自负。"
+1920c1842
+<     "message": "3Box has been disabled due to an error during the initial sync"
+---
+>     "message": "由于初始同步过程中出现错误，3Box 已被禁用。"
+1923c1845
+<     "message": "Terms of Use"
+---
+>     "message": "使用条款"
+1926c1848
+<     "message": "Terms of Service"
+---
+>     "message": "服务条款"
+1929c1851
+<     "message": "Test Faucet"
+---
+>     "message": "测试水管"
+1932c1854
+<     "message": "This will create a new wallet and seed phrase"
+---
+>     "message": "将为你创建新的钱包账户和账户助记词"
+1935c1857
+<     "message": "Tips"
+---
+>     "message": "小贴士"
+1938c1860
+<     "message": "To"
+---
+>     "message": "至"
+1941,1942c1863
+<     "message": "To: $1",
+<     "description": "$1 is the address to include in the To label. It is typically shortened first using shortenAddress"
+---
+>     "message": "至：$1"
+1945c1866
+<     "message": "To:"
+---
+>     "message": "至："
+1948c1869
+<     "message": "Token"
+---
+>     "message": "代币"
+1951c1872
+<     "message": "Token has already been added."
+---
+>     "message": "代币已添加。"
+1954c1875
+<     "message": "Token Contract Address"
+---
+>     "message": "代币合约地址"
+1957c1878
+<     "message": "Token options"
+---
+>     "message": "代币选项"
+1960c1881
+<     "message": "Token Symbol"
+---
+>     "message": "代币符号"
+1963c1884
+<     "message": "Total"
+---
+>     "message": "总额"
+1966c1887
+<     "message": "transaction"
+---
+>     "message": "交易"
+1969c1890
+<     "message": "Transaction cancel attempted with gas fee of $1 at $2"
+---
+>     "message": "尝试取消交易 $2，燃料费用：$1。"
+1972c1893
+<     "message": "Transaction successfully cancelled at $2"
+---
+>     "message": "取消交易成功 $2。"
+1975c1896
+<     "message": "Transaction confirmed at $2."
+---
+>     "message": "交易已确认 $2。"
+1978c1899
+<     "message": "Transaction created with a value of $1 at $2."
+---
+>     "message": "交易已创建 $2，交易数额：$1。"
+1981c1902
+<     "message": "Transaction dropped at $2."
+---
+>     "message": "交易终止 $2。"
+1984c1905
+<     "message": "Transaction Error. Exception thrown in contract code."
+---
+>     "message": "交易出错。合约代码执行异常。"
+1987c1908
+<     "message": "Trying to call a function on a non-contract address."
+---
+>     "message": "试图在一个非合约地址上调用一个函数。"
+1990c1911
+<     "message": "Transaction encountered an error."
+---
+>     "message": "交易出现错误。"
+1993c1914
+<     "message": "Transaction Fee"
+---
+>     "message": "交易费"
+1996c1917
+<     "message": "Transaction resubmitted with gas fee increased to $1 at $2"
+---
+>     "message": "重新提交交易 $2，交易费升至：$1。"
+1999c1920
+<     "message": "Transaction submitted with gas fee of $1 at $2."
+---
+>     "message": "交易已提交 $2，交易费：$1。"
+2002c1923
+<     "message": "Transaction updated at $2."
+---
+>     "message": "交易更新时间 $2。"
+2005c1926
+<     "message": "Transfer"
+---
+>     "message": "转账"
+2008c1929
+<     "message": "Transfer between my accounts"
+---
+>     "message": "在我的账户间转账"
+2011c1932
+<     "message": "Transfer From"
+---
+>     "message": "转自"
+2014,2015c1935
+<     "message": "We had trouble connecting to your $1, try reviewing $2 and try again.",
+<     "description": "$1 is the wallet device name; $2 is a link to wallet connection guide"
+---
+>     "message": "我们在连接你的  $1 遇到问题，尝试检查 $2 并重试。"
+2018,2019c1938
+<     "message": "We had trouble loading your token balances. You can view them ",
+<     "description": "Followed by a link (here) to view token balances"
+---
+>     "message": "我们无法加载你的代币余额。你可以查看它们"
+2022,2023c1941
+<     "message": "Do you trust this site? By granting this permission, you’re allowing $1 to withdraw your $2 and automate transactions for you.",
+<     "description": "$1 is the url requesting permission and $2 is the symbol of the currency that the request is for"
+---
+>     "message": "你信任这个网站吗？授权即表示你允许 $1 提取你的 $2，并为你自动进行交易。"
+2026c1944
+<     "message": "Try again"
+---
+>     "message": "重试"
+2029c1947
+<     "message": "Type your MetaMask password"
+---
+>     "message": "输入你的 MetaMask 密码"
+2032c1950
+<     "message": "Unapproved"
+---
+>     "message": "未批准"
+2035c1953
+<     "message": "units"
+---
+>     "message": "数量"
+2038c1956
+<     "message": "Unknown"
+---
+>     "message": "未知"
+2041c1959
+<     "message": "There was an error while trying to access your camera. Please try again..."
+---
+>     "message": "尝试获取相机使用权限时报错。请重试…"
+2044c1962
+<     "message": "Ooops! Something went wrong...."
+---
+>     "message": "哎呀！出问题了…"
+2047c1965
+<     "message": "Unknown Private Network"
+---
+>     "message": "未知的私有网络"
+2050c1968
+<     "message": "Error: We couldn't identify that QR code"
+---
+>     "message": "错误：无法识别该二维码"
+2053c1971
+<     "message": "Unlimited"
+---
+>     "message": "无限制"
+2056c1974
+<     "message": "Unlock"
+---
+>     "message": "解锁"
+2059c1977
+<     "message": "The decentralized web awaits"
+---
+>     "message": "即将进入去中心化网络"
+2062c1980
+<     "message": "Updated $1"
+---
+>     "message": "已更新 $1"
+2065c1983
+<     "message": "URLs require the appropriate HTTP/HTTPS prefix."
+---
+>     "message": "URL 需要相应的 HTTP/HTTPS 前缀。"
+2068c1986
+<     "message": "URL is already present in existing list of networks"
+---
+>     "message": "URL 已经存在于现有的网络列表中"
+2071c1989
+<     "message": "Use Phishing Detection"
+---
+>     "message": "使用网络钓鱼检测"
+2074c1992
+<     "message": "Display a warning for phishing domains targeting Ethereum users"
+---
+>     "message": "显示针对 Ethereum 用户钓鱼域名的警告。"
+2077c1995
+<     "message": "Used by a variety of different clients"
+---
+>     "message": "可用于各种不同的客户端"
+2080c1998
+<     "message": "Username"
+---
+>     "message": "名称"
+2083,2084c2001
+<     "message": "Verify this token on $1",
+<     "description": "Points the user to etherscan as a place they can verify information about a token. $1 is replaced with the translation for \"etherscan\""
+---
+>     "message": "在 $1 上验证此代币"
+2087c2004
+<     "message": "View Account"
+---
+>     "message": "查看账户"
+2090c2007
+<     "message": "View Contact"
+---
+>     "message": "查看联系人"
+2093c2010
+<     "message": "View at $1"
+---
+>     "message": "在 $1 查看"
+2096c2013
+<     "message": "View on Etherscan"
+---
+>     "message": "在 Etherscan（以太坊浏览器）上查看"
+2099c2016
+<     "message": "View in Explorer"
+---
+>     "message": "在浏览器中查看"
+2102c2019
+<     "message": "Visit our web site"
+---
+>     "message": "访问我们的网站"
+2105c2022
+<     "message": "our hardware wallet connection guide"
+---
+>     "message": "我们的硬件钱包连接指南"
+2108c2025
+<     "message": "Seed phrase"
+---
+>     "message": "账户助记词"
+2111,2112c2028
+<     "message": "We noticed that the current website tried to use the removed window.web3 API. If the site appears to be broken, please click $1 for more information.",
+<     "description": "$1 is a clickable link."
+---
+>     "message": "我们发现当前的网站尝试使用已经删除的 window.web3 API。如果这个网站网站已经无法正常使用，请点击 $1 获取更多信息。"
+2115c2031
+<     "message": "Welcome to MetaMask"
+---
+>     "message": "欢迎使用 MetaMask"
+2118c2034
+<     "message": "Welcome Back!"
+---
+>     "message": "欢迎回来！"
+2121c2037
+<     "message": "What's this?"
+---
+>     "message": "这是什么？"
+2124c2040
+<     "message": "Write this phrase on a piece of paper and store in a secure location. If you want even more security, write it down on multiple pieces of paper and store each in 2 - 3 different locations."
+---
+>     "message": "请将该账户助记词记录在纸上，并保存在安全的地方。如果希望提升信息安全性，请将信息记录在多张纸上，并分别保存在 2 - 3 个不同的地方。"
+2127,2128c2043
+<     "message": "$1 of $2",
+<     "description": "$1 and $2 are intended to be two numbers, where $2 is a total, and $1 is a count towards that total"
+---
+>     "message": "$1 / $2"
+2131c2046
+<     "message": "Yes, let's try"
+---
+>     "message": "是的，尝试下"
+2134c2049
+<     "message": "You need to allow camera access to use this feature."
+---
+>     "message": "需要开启相机访问权限，才能使用该功能。"
+2137c2052
+<     "message": "You are signing"
+---
+>     "message": "正在签名"
+2140c2055
+<     "message": "Your private seed phrase"
+---
+>     "message": "你的账户助记词"
+2143c2058
+<     "message": "Your signature is being requested"
+---
+>     "message": "正在请求你的签名"
+2146c2061
+<     "message": "Zero gas price on speed up"
+---
+>     "message": "加速时无燃料价格"
